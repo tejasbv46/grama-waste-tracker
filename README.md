@@ -29,4 +29,4 @@ Grama Waste Tracker is an Android application designed for village waste collect
 4. Run the application
 
 ## 👨‍💻 Author
-Hashim / Your Name
+tejas
